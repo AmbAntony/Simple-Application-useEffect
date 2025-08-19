@@ -1,6 +1,8 @@
-This is a Next.js project bootstrapped with [`create-next-app`]
+## Simple useEffect use-case
 
 The app illustrates a common use case of useEffect hook in React: updating the document's title based on a counter.
+
+This is a Next.js project bootstrapped with [`create-next-app`]
 
 Final result looks like this ![screenshot](public/photo.png)
 
